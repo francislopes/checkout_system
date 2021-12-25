@@ -1,4 +1,6 @@
-# Test
+# Checkout System API
+
+This API allows the supermarket user to add, update, read and delete items in a basket, as well as calculates the total cost of a basket which could contain any combination of items and promotions.
 
 ## Dependencies
 
