@@ -1,6 +1,6 @@
 # Checkout System API
 
-This API allows user to add, update and delete items in a supermarket basket, as well as calculates the total cost of a basket which could contain any combination of items and promotions.
+This API allows user to add, update and delete items in a supermarket basket. It also calculates the total cost of the basket which can contain any combination of items and promotions.
 
 ## Dependencies
 
